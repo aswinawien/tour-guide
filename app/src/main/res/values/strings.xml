@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cali mountain tour guide</string>
+    <string name="title_text">Sheep Farm</string>
+    <string name="detail_text">One of the most famous sites in the world,
+                                Sheep Farm is a prehistoric monument located in Shire, England,
+                                about 2 miles west of Middle Earth and 8 miles north of Salisbury</string>
+    <string name="title_activity_image">Sheep Farm</string>
+</resources>
